@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+div#welcome{
+    font-family: poppins;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 60px;
+    background-color: #204969;
+}
+div#welcome button{
+    background-color: #f0f0f0;
+    font-size: 16px;
+    font-weight: 550;
+    padding: 8px 12px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
